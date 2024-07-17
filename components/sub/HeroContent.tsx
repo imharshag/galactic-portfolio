@@ -46,14 +46,16 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
+          I&apos;m <b className="text-white opacity-6">Harsha G</b>, a Software Engineer with experience in Website,
           Mobile, and Software development. Check out my projects and skills.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+          href="https://harshag.vercel.app/" 
+          target="_blank"  
         >
-          Learn More!
+          Know More!
         </motion.a>
       </div>
 
