@@ -12,21 +12,21 @@ const Projects = () => {
           <ProjectCard
             src="/News_app.png"
             title="News App using .Net MAUI"
-            description="Developed a cross-platform news application using .NET MAUI and MVVM architecture, ensuring seamless performance across mobile and desktop devices. Integrated with GNews API for real-time global news updates."
+            description="Created cross-platform news app with .NET MAUI & MVVM, integrating GNews API for global updates."
           />
         </a>
         <a href="/fake-news-detection-url" className="block w-full md:w-1/3">
           <ProjectCard
-            src="/CardImage.png"
+            src="/fake_news.png"
             title="Fake News Detection Using ML"
-            description="Employed Machine learning algorithms with Python, Django, HTML, and CSS. Utilized Pandas, NumPy for preprocessing and Decision Trees, Random Forests and Logistic Regression for classification. Offers a user-friendly interface for real-time news analysis."
+            description="Implemented ML with Python, Django, HTML/CSS, and classification algorithms."
           />
         </a>
         <a href="/fake-news-detection-url" className="block w-full md:w-1/3">
           <ProjectCard
             src="/aws.png"
             title="CI/CD Using Amazon Web Services"
-            description="Employed Machine learning algorithms with Python, Django, HTML, and CSS. Utilized Pandas, NumPy for preprocessing and Decision Trees, Random Forests and Logistic Regression for classification. Offers a user-friendly interface for real-time news analysis."
+            description="Implemented CI/CD pipeline using AWS services for efficient project deployment."
           />
         </a>
       </div>
