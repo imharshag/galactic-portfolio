@@ -3,16 +3,19 @@ import HeroContent from "../sub/HeroContent";
 
 const Hero = () => {
   return (
-    <div className="relative flex flex-col h-full w-full" id="about-me">
+    <div className="relative h-screen w-full overflow-hidden" id="about-me">
       <video
         autoPlay
         muted
         loop
-        className="rotate-180 absolute top-[-340px]  h-full w-full left-0 z-[1] object-cover "
+        className="rotate-180 absolute top-0 left-0 h-full w-full object-cover z-10"
+        style={{ transform: "translateY(-340px)" }}
       >
         <source src="/blackhole.webm" type="video/webm" />
       </video>
-      <HeroContent />
+      <div className="relative z-20">
+        <HeroContent />
+      </div>
     </div>
   );
 };
