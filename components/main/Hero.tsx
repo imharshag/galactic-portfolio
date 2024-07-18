@@ -8,8 +8,10 @@ const Hero = () => {
         autoPlay
         muted
         loop
-        className="rotate-180 absolute top-0 left-0 h-full w-full object-cover z-10"
-        style={{ transform: "translateY(-340px)" }}
+        className="absolute top-0 left-0 h-full w-full object-cover z-10"
+        style={{
+          transform: "translateY(-340px) rotate(180deg)", 
+        }}
       >
         <source src="/blackhole.webm" type="video/webm" />
       </video>
