@@ -34,5 +34,5 @@ Check out the live version of the portfolio [here](https://galactic-portfolio.ve
 
 ### 📬 Contact Information
 
-If you have any questions or would like to discuss this project further, feel free to reach out to [Me!](harshag3106@gmail.com).
+If you have any questions or would like to discuss this project further, feel free to reach out to [Me!](mailto:harshag3106@gmail.com).
    
