@@ -2,21 +2,11 @@
 
 This is a **galactic-themed portfolio** built using **Next.js**. The portfolio was initially created by another developer, and I have made updates to ensure full **responsiveness for mobile devices**, enhancing the user experience across different screen sizes.
 
+> ⚠️ **Note**: The information presented in this portfolio is not valid and is intended solely for **representational purposes**.
+
 ### 🔍 View Live
 
 Check out the live version of the portfolio [here](https://galactic-portfolio.vercel.app/).
-
-> ⚠️ **Note**: The information presented in this portfolio is not valid and is intended solely for **representational purposes**.
-
-### 📷 Before & After
-
-### Before:
-![Before Mobile](./images/before-mobile.png)
-![Before Desktop](./images/before-desktop.png)
-
-### After:
-![After Mobile](./images/after-mobile.png)
-![After Desktop](./images/after-desktop.png)
 
 ### 🛠 Installation & Setup
 
@@ -40,5 +30,9 @@ Check out the live version of the portfolio [here](https://galactic-portfolio.ve
 
 ### 🤝 Collaboration
 
-I was **not the original creator** of this portfolio. My contributions focused on improving its **responsiveness** across various devices. 
+ If you're interested in contributing or discussing improvements, feel free to reach out!
+
+### 📬 Contact Information
+
+If you have any questions or would like to discuss this project further, feel free to reach out to [Me!](harshag3106@gmail.com).
    
