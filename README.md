@@ -12,7 +12,7 @@ Check out the live version of the portfolio [here](https://galactic-portfolio.ve
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/galactic-portfolio.git
+   git clone https://github.com/imharshag/galactic-portfolio.git
 
 2. **Navigate to the project directory**:
    ```bash
